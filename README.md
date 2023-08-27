@@ -95,6 +95,6 @@ function assert(val: unknown): asserts val {
 }
 ```
 
-It makes me a little nervous to use this, since it is underdocumented. It's only documentd in the [TypeScript 3.7 Release Notes](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html#assertion-functions) and in the [Assertion Function Examples](https://www.typescriptlang.org/play#example/assertion-functions).
+It makes me a little nervous to use this, since it is underdocumented. It's only documented in the [TypeScript 3.7 Release Notes](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html#assertion-functions) and in the [Assertion Function Examples](https://www.typescriptlang.org/play#example/assertion-functions).
 
 That said, I suspect that this underdocumentation isn't a problem specific to this feature, but rather that many TypeScript features are only documented in the release notes of a particular version, as one of the maintainers mentions [here](https://github.com/microsoft/TypeScript/issues/31983#issuecomment-513977239). TypeScript has a lot of high quality docs, but it has *so many* featues and options (the word "sprawling" comes to mind) that I'm not surprised they have fallen behind in the documentation.
