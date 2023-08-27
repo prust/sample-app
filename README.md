@@ -2,7 +2,7 @@
 
 This is a tiny, simple example app that uses TypeScript on client and server for learning purposes. It uses Express.js on the server and vanilla JS on the client. I was originally going to use React on the client, but the setup took so long with just TypeScript that I ended up postponing on React.
 
-Here's are the tips:
+Here are the tips:
 
 ## Tell VSCode to use the project's TypeScript install
 
